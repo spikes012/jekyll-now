@@ -1,17 +1,17 @@
 ---
-title: Blog 28 - Raspberry Pi Fuze Box
+title: Fuze Boxes, continued...
 layout: post
 author: nathan.john
 permalink: /template-blog/
-source-id: 1zHyP-emTP-9cKkAnjYgn6tPa6hj1Tp_AY0DO01T-zIk
+source-id: 1dy_Ixng8Fg14LlNjUquxOFWNXe1gy7bjOxaj6sRR4EU
 published: true
 ---
 <table>
   <tr>
     <td>Title</td>
-    <td>Fuze Box</td>
+    <td>Fuze Boxes, continued...</td>
     <td>Date</td>
-    <td>14/09/18</td>
+    <td>21/09/18</td>
   </tr>
 </table>
 
@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>We have seen the Fuze boxes. </td>
+    <td>We now know how to operate the Fuze boxes.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To learn how to properly set up the Fuze Boxes.</td>
+    <td></td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Yes, after some struggle I got the Fuze box working.</td>
+    <td></td>
   </tr>
 </table>
 
@@ -39,7 +39,7 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>Trying again and again.</td>
+    <td>I got stuck on a bit in the middle so I was frustrated about that but I kept trying - in the end my attempts were in vain.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
@@ -47,7 +47,8 @@ published: true
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I was thinking that we had to remove cables but you just need to add the power cable, monitor and mouse and WiFi.</td>
+    <td>I was able to quickly set up the boxes.
+</td>
   </tr>
   <tr>
     <td>Reflecting</td>
@@ -55,14 +56,14 @@ published: true
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I was trying hard and thoroughly checking the booklet.</td>
+    <td>Using the Fuze Boxes and getting on with our work.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td>I could have used my initiative and used the booklet quicker before trying to desperately remove and plug cables.</td>
+    <td>I could have asked the teacher for help and by not doing so I restricted myself from learning much more if I had gotten further.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +71,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I need to read the booklet quicker and use more common sense.</td>
+    <td>Asking the teacher and not restricting myself from learning by keeping my problems to myself.</td>
     <td></td>
   </tr>
 </table>
