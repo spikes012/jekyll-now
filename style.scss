@@ -26,13 +26,15 @@ body {
 .container {
   margin: 70px;
   max-width: 820px;
-  padding: 30px;
+  padding: 100px;
   width: 100%;
-  font color: #ff9933;
+  background-color: #ff9933;
   opacity: 0.7;
 }
-.table {
-  border: solid;
+
+table, th, td {
+  border: 5px solid black;
+}
   
 
 h1, h2, h3, h4, h5, h6 {
