@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Fuze Boxes, continued...</td>
+    <td>Fuze Boxes continued...</td>
     <td>Date</td>
-    <td>21/09/18</td>
+    <td>07/10/18</td>
   </tr>
 </table>
 
@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>We now know how to operate the Fuze boxes.</td>
+    <td>We know how to operate and use Raspberry Pi.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td></td>
+    <td>Follow instructions to program a rocket launch countdown.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td></td>
+    <td>Yes, I completed the countdown and went onto extensions.</td>
   </tr>
 </table>
 
@@ -39,7 +39,7 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>I got stuck on a bit in the middle so I was frustrated about that but I kept trying - in the end my attempts were in vain.</td>
+    <td>Unfortunately the box crashed and we started again.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
@@ -47,12 +47,11 @@ published: true
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I was able to quickly set up the boxes.
-</td>
+    <td>I was able to quickly set up the boxes.</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td></td>
+    <td>Using our past experiences with the breadboards to our use.</td>
   </tr>
   <tr>
     <td>Engagement</td>
@@ -63,7 +62,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I could have asked the teacher for help and by not doing so I restricted myself from learning much more if I had gotten further.</td>
+    <td>I could have read the instructions better and understood the task that was set as me and my partner were blatantly doing what the Fuze box instructions told us to do instead of the work instructions.</td>
     <td></td>
   </tr>
   <tr>
@@ -71,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Asking the teacher and not restricting myself from learning by keeping my problems to myself.</td>
+    <td>Read the tasks and clearly set up the plan of how to execute these rules.</td>
     <td></td>
   </tr>
 </table>
