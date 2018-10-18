@@ -1,5 +1,5 @@
 ---
-title: Fuze Boxes, continued...
+title: Fuze Boxes
 layout: post
 author: nathan.john
 permalink: /template-blog/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Fuze Boxes continued...</td>
+    <td>Fuze Boxes </td>
     <td>Date</td>
-    <td>07/10/18</td>
+    <td>14/09/18</td>
   </tr>
 </table>
 
@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>We know how to operate and use Raspberry Pi.</td>
+    <td>We have been introduced to Raspberry Pi and the Breadboard (Fuze Boxes).</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Follow instructions to program a rocket launch countdown.</td>
+    <td>Play around with the Breadboards and see how far we can go with the instructions.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Yes, I completed the countdown and went onto extensions.</td>
+    <td>Yes we played around with the Fuze Boxes.</td>
   </tr>
 </table>
 
@@ -39,7 +39,7 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>Unfortunately the box crashed and we started again.</td>
+    <td>We kept crashing the box by clicking too many times.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
@@ -47,22 +47,22 @@ published: true
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I was able to quickly set up the boxes.</td>
+    <td>It took us time to set up the boxes as we had never used them before.</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>Using our past experiences with the breadboards to our use.</td>
+    <td></td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>Using the Fuze Boxes and getting on with our work.</td>
+    <td>Trying hard to make the Breadboard work.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td>I could have read the instructions better and understood the task that was set as me and my partner were blatantly doing what the Fuze box instructions told us to do instead of the work instructions.</td>
+    <td>We were trying and figuring out how to use the Fuze Boxes so we were just testing everything on the boxes and having fun.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Read the tasks and clearly set up the plan of how to execute these rules.</td>
+    <td>I need to use the instructions more but it was good that this week was for trying out the Breadboards.</td>
     <td></td>
   </tr>
 </table>
