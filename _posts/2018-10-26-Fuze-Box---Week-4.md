@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Fuze Box - Week 4</td>
     <td>Date</td>
-    <td>27/10/18</td>
+    <td>27/09/18</td>
   </tr>
 </table>
 
